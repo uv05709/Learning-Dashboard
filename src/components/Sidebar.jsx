@@ -78,9 +78,9 @@ export default function Sidebar() {
                 <AnimatePresence mode="popLayout">
                   {!isCollapsed && (
                     <motion.span 
-                      initial={{ opacity: 0, w: 0 }}
-                      animate={{ opacity: 1, w: "auto" }}
-                      exit={{ opacity: 0, w: 0 }}
+                      initial={{ opacity: 0, width: 0 }}
+                      animate={{ opacity: 1, width: "auto" }}
+                      exit={{ opacity: 0, width: 0 }}
                       className="ml-3 font-medium relative z-10 whitespace-nowrap"
                     >
                       {item.label}
