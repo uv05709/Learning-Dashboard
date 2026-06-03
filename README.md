@@ -4,6 +4,10 @@
   <p>A high-fidelity, highly animated student dashboard prototype built with Next.js App Router, Supabase, and Framer Motion.</p>
 
   <p>
+    <a href="https://learning-dashboard-theta-nine.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+  </p>
+
+  <p>
     <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js" /></a>
     <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
     <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
@@ -87,5 +91,5 @@ Navigate to [http://localhost:3000](http://localhost:3000) to view the dashboard
 ---
 
 <div align="center">
-  <p>Built with ❤️ for the Next-Gen Learning Frontend Challenge.</p>
+  <p>Built with ❤️ by Uttam Verma for the Next-Gen Learning Frontend Challenge.</p>
 </div>
